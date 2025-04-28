@@ -41,6 +41,9 @@ If you want to build fonts manually on your own computer:
 
 ## Changelog
 
+**28 April 2025. Version 1.101**
+- [Fabrizio Schiavi](https://fsd.it) changes `t fi fl` and regenerate the Variable Fonts 
+
 **29 August 2021. Version 1.0**
 - Hello World - Initial Public Release.
 
