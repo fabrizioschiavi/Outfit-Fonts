@@ -13,7 +13,7 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FOutfitio%2FOutfit-Fonts%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FOutfitio%2FOutfit-Fonts%2Fgh-pages%2Fbadges%2FUniversal.json
 
-
+![FSD Outfit changes](https://github.com/fabrizioschiavi/Outfit-Fonts/blob/main/documentation/fsd_outfit_changes.png)
 ![Sample Image](documentation/image1.png)
 
 ## About
@@ -40,6 +40,9 @@ If you want to build fonts manually on your own computer:
 * `make proof` will generate HTML proof files.
 
 ## Changelog
+
+**30 April 2025. Version 1.102**
+- [Fabrizio Schiavi](https://fsd.it) changes `r ff fj rt rf` create `ffi ffl` ligatures and regenerate the Variable Fonts 
 
 **28 April 2025. Version 1.101**
 - [Fabrizio Schiavi](https://fsd.it) changes `t fi fl` and regenerate the Variable Fonts 
