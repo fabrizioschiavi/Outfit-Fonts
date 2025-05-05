@@ -14,6 +14,7 @@
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FOutfitio%2FOutfit-Fonts%2Fgh-pages%2Fbadges%2FUniversal.json
 
 ![FSD Outfit changes](https://github.com/fabrizioschiavi/Outfit-Fonts/blob/main/documentation/fsd_outfit_changes.png)
+![FSD Outfit as Hacker News font sample](https://github.com/fabrizioschiavi/Outfit-Fonts/blob/main/documentation/fsd_outfit_2025.png)
 ![Sample Image](documentation/image1.png)
 
 ## About
