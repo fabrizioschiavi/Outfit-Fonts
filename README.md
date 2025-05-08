@@ -44,7 +44,7 @@ If you want to build fonts manually on your own computer:
 
 **30 April 2025. Version 1.102**
 - [Fabrizio Schiavi](https://fsd.it) changes `e r f ff` and regenerate the Variable Fonts and all the Static Fonts
-- 
+
 **30 April 2025. Version 1.102**
 - [Fabrizio Schiavi](https://fsd.it) changes `r ff fj rt rf` create `ffi ffl` ligatures and regenerate the Variable Fonts 
 
